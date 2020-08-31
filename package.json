@@ -1,0 +1,8 @@
+{
+  "name": "pipeline",
+  "version": "0.0.1",
+  "description": "Promisify Node stream pipeline function",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT"
+}
